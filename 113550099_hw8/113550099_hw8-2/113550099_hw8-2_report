@@ -1,0 +1,4 @@
+Line 13: 'A' and 'Z' should be shift by the formula.
+Line 17: 'a' and 'z' should be shift by the formula.
+Line 30: reverse until p>message. 否則字串在reverse函式內會被reverse兩次。
+Line 34: 當兩個元素交換後 message應該要指向後一個元素。
